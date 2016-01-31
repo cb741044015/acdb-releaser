@@ -1,7 +1,7 @@
-= About =
+# About
 This is a python script use for work & study python.
 
-== Function ==
+## Function
 Copy and change a directory like this:
 
      dir: to
@@ -11,11 +11,12 @@ Copy and change a directory like this:
                 stuff
 
 
-== Usage ==
-    
-    acdb-releaser [options]
-    
+## Usage
+
+     acdb-releaser [options]
+
 Options:
+
     -d,--date DATE give a data
     --suffix give a suffix
     -o,--output give where you want to release the stuff
